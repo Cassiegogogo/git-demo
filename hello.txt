@@ -9,3 +9,4 @@ Hello git!
 Hello git!
 Hello git! master test
 Hello git! hot-fix test
+I'm the first change.666
