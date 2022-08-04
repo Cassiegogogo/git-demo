@@ -12,3 +12,4 @@ Hello git! hot-fix test
 I'm the first change by github.
 I'm the second change after clone.
 I'm the thrid change by ssh.
+gogogo~
